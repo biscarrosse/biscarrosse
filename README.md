@@ -18,3 +18,7 @@ I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as 
 ### 👀 Public repositories :
 - [travel map (leaflet playground)](https://github.com/biscarrosse/travel-map)
 
+### 🍀 Noteworthy projects :
+- [Architctr](https://architctr.com/)
+- [MTG Lives](https://mtglives.com/)
+
