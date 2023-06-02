@@ -6,11 +6,14 @@ I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as 
 
 🔭 I’m currently working with :
 
-sveltekit   javascript   nextjs   firebase ecosystem   
+- sveltekit
+- javascript
+- nextjs
+- firebase ecosystem   
 
 🌱 I’m currently learning :
 
-python
+- python
 
 🗣️ Public repositories :
 - [travel map (leaflet playground)](https://github.com/biscarrosse/travel-map)
