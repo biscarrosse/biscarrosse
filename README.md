@@ -8,7 +8,8 @@ I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as 
 
 - sveltekit
 - nextjs
-- firebase ecosystem   
+- firebase ecosystem
+- javascript
 
 ### 🤹 I’m currently learning :
 
