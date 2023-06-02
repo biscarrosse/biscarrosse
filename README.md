@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+👩‍💻 About Me :
+
+I am a frontend developer from Czechia.
+
+🔭 I’m currently working with :
+
+sveltekit   javascript   nextjs   firebase ecosystem   
+
+🌱 I’m currently learning :
+
+python
+
+🗣️ Public repositories :
+
 <!--
 **biscarrosse/biscarrosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
