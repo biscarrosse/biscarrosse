@@ -15,10 +15,8 @@ I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as 
 
 - python
 
-### 👀 Public repositories :
-- [travel map (leaflet playground)](https://github.com/biscarrosse/travel-map)
-
 ### 🍀 Noteworthy projects :
+- [Travel map](https://sweet-speculoos-aa9bc9.netlify.app/) See: [public repo](https://github.com/biscarrosse/travel-map)
 - [Architctr](https://architctr.com/)
 - [MTG Lives](https://mtglives.com/)
 
