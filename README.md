@@ -1,20 +1,20 @@
-### Hey there 👋
+### Hey there 👋🏼
 
-👩‍💻 About Me :
+👨🏼‍💻 About Me :
 
 I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as well!
 
-🔭 I’m currently working with :
+🏗 I’m currently working with :
 
 - sveltekit
 - javascript
 - nextjs
 - firebase ecosystem   
 
-🌱 I’m currently learning :
+🤹 I’m currently learning :
 
 - python
 
-🗣️ Public repositories :
+👀 Public repositories :
 - [travel map (leaflet playground)](https://github.com/biscarrosse/travel-map)
 
