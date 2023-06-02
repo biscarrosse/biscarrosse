@@ -2,7 +2,7 @@
 
 👩‍💻 About Me :
 
-I am a frontend developer from 🇨🇿.
+I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as well!
 
 🔭 I’m currently working with :
 
