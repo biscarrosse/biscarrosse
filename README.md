@@ -2,7 +2,7 @@
 
 👩‍💻 About Me :
 
-I am a frontend developer from Czechia.
+I am a frontend developer from 🇨🇿.
 
 🔭 I’m currently working with :
 
@@ -13,6 +13,7 @@ sveltekit   javascript   nextjs   firebase ecosystem
 python
 
 🗣️ Public repositories :
+[travel map (leaflet playground)](https://github.com/biscarrosse/travel-map)
 
 <!--
 **biscarrosse/biscarrosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
