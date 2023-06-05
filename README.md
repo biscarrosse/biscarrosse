@@ -17,6 +17,7 @@ I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as 
 
 ### 🍀 Noteworthy projects :
 - [Travel map](https://sweet-speculoos-aa9bc9.netlify.app/) See: [public repo](https://github.com/biscarrosse/travel-map)
+- [Aquariums scourge](https://peppy-starburst-5c6dbc.netlify.app/) SvelteKit setup | Typescript | Tailwind | interval handling | stores. See: [public repo](https://github.com/biscarrosse/neat-landing)
 - [Architctr](https://architctr.com/) A good house and a bad house cost roughly the same
 - [MTG Lives](https://mtglives.com/) An essential tool for playing MTG
 
