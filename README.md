@@ -1,8 +1,6 @@
 # Hey there 👋🏼
 
-## 👨🏼‍💻 About Me :
-
-I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as well!
+I am a frontend developer 👨🏼‍💻 from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as well!
 
 ### 🏗 I’m currently working with :
 
@@ -10,7 +8,7 @@ I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as 
 
 ### 🤹 I’m currently learning :
 
-- python
+- node, python
 
 ### 🍀 Noteworthy projects :
 - [Travel map](https://sweet-speculoos-aa9bc9.netlify.app/) Leaflet, Vanilla JS, HTML & CSS. Some cool animations. See: [public repo](https://github.com/biscarrosse/travel-map)
