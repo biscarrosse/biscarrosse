@@ -1,12 +1,12 @@
-# Hey there 👋🏼
+# Hello there 👋🏼
 
 I am a frontend developer 👨🏼‍💻 from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as well!
 
-### 🏗 I’m currently working with :
+### 🏗 Currently working with :
 
 - SvelteKit, Next.js, JS/TS, firebase ecosystem
 
-### 🤹 I’m currently learning :
+### 🤹 Learning :
 
 - node, python
 
