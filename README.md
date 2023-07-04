@@ -6,10 +6,7 @@ I am a frontend developer from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as 
 
 ### 🏗 I’m currently working with :
 
-- sveltekit
-- nextjs
-- firebase ecosystem
-- javascript
+- SvelteKit, Next.js, JS/TS, firebase ecosystem
 
 ### 🤹 I’m currently learning :
 
