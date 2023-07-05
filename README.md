@@ -1,6 +1,6 @@
 # Hello there 👋🏼
 
-I am a frontend developer 👨🏼‍💻 from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as well!
+I am a web developer 👨🏼‍💻 from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as well!
 
 ### 🏗 Currently working with :
 
