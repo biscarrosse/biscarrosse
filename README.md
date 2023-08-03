@@ -4,11 +4,7 @@ I am a web developer 👨🏼‍💻 from 🇨🇿. We can talk in 🇦🇺 or �
 
 ### 🏗 Currently working with :
 
-- SvelteKit, Next.js, JS/TS, firebase ecosystem
-
-### 🤹 Learning :
-
-- node, python
+- SvelteKit, Next.js, TypeScript
 
 ### 🍀 Noteworthy coding projects :
 - **2048 game**: React, TypeScript, React Testing Library, GraphQL Apollo, styled-components. See: [public repo](https://github.com/biscarrosse/2048-demo)
