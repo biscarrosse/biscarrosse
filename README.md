@@ -11,7 +11,7 @@ I am a web developer 👨🏼‍💻 from 🇨🇿. We can talk in 🇦🇺 or �
 - node, python
 
 ### 🍀 Noteworthy coding projects :
-- [2048 game](https://sweet-speculoos-aa9bc9.netlify.app/) React, TypeScript, React Testing Library, GraphQL Apollo, styled-components. See: [public repo]([https://github.com/biscarrosse/travel-map](https://github.com/biscarrosse/2048-demo))
+- 2048 game: React, TypeScript, React Testing Library, GraphQL Apollo, styled-components. See: [public repo](https://github.com/biscarrosse/2048-demo)
 - [Travel map](https://sweet-speculoos-aa9bc9.netlify.app/) Leaflet, Vanilla JS, HTML & CSS. Some cool animations. See: [public repo](https://github.com/biscarrosse/travel-map)
 - [Aquariums scourge](https://peppy-starburst-5c6dbc.netlify.app/) SvelteKit setup | Typescript | Tailwind | interval handling | stores. See: [public repo](https://github.com/biscarrosse/neat-landing)
 - [Architctr](https://architctr.com/) A good house and a bad house cost roughly the same. Fullstack web app
