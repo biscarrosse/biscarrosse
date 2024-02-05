@@ -2,13 +2,11 @@
 
 I am a web developer 👨🏼‍💻 from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as well!
 
-### 🏗 Currently working with :
+### 🏗 Working with :
 
-- SvelteKit, Next.js, TypeScript
+- SvelteKit, TypeScript, Postgres
 
-### 🍀 Noteworthy coding projects :
+### 🍀 Code examples :
 - **2048 game**: React, TypeScript, React Testing Library, GraphQL Apollo, styled-components. See: [public repo](https://github.com/biscarrosse/2048-demo)
-- [Travel map](https://sweet-speculoos-aa9bc9.netlify.app/) Leaflet, Vanilla JS, HTML & CSS. Some cool animations. See: [public repo](https://github.com/biscarrosse/travel-map)
-- [Aquariums scourge](https://peppy-starburst-5c6dbc.netlify.app/) SvelteKit | Typescript | Tailwind | interval handling | stores. See: [public repo](https://github.com/biscarrosse/neat-landing)
-- [MTG Lives](https://mtglives.com/) An essential tool for playing MTG. Next.js
+- [Travel map](https://sweet-speculoos-aa9bc9.netlify.app/) Leaflet maps API, Vanilla JS, cool CSS animations. See: [public repo](https://github.com/biscarrosse/travel-map)
 
