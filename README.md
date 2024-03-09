@@ -1,10 +1,8 @@
-# Hello there 👋🏼
-
-I am a web developer 👨🏼‍💻 from 🇨🇿. We can talk in 🇦🇺 or 🇪🇸 as well!
+## Hello, `I'm Ales` a web developer from 🇪🇺🇨🇿
 
 ### 🏗 Working with :
 
-- SvelteKit, TypeScript, Postgres
+- SvelteKit, TypeScript, Tailwind, Postgres
 
 ### 🍀 Code examples :
 - **2048 game**: React, TypeScript, React Testing Library, GraphQL Apollo, styled-components. See: [public repo](https://github.com/biscarrosse/2048-demo)
