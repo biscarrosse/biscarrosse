@@ -2,7 +2,7 @@
 
 ### 🏗 Working with :
 
-- SvelteKit, TypeScript, Tailwind, Postgres
+- TypeScript, Nest.js, Azure Tables, Postgres, SvelteKit, Tailwind, React
 
 ### 🍀 Code examples :
 - **2048 game**: React, TypeScript, React Testing Library, GraphQL Apollo, styled-components. See: [public repo](https://github.com/biscarrosse/2048-demo)
